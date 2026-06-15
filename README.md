@@ -50,5 +50,5 @@ Built using:
 ## 🌐 Connect With Me
 
 - LinkedIn: [www.linkedin.com/in/siddhartha-gajjela/](https://www.linkedin.com/in/siddhartha-gajjela/)
-- Portfolio: [Add later](https://devsiddharth.github.io/my-portfolio/)
+- Portfolio: [My Portfolio](https://devsiddharth.github.io/my-portfolio/)
 - GitHub: https://github.com/devsiddharth
