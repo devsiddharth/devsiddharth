@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Siddhartha
 
-<!--
-**devsiddharth/devsiddharth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer
 
-Here are some ideas to get you started:
+Building technology by combining:
+⚙️ Engineering Principles
+💼 Corporate Experience
+💻 Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+• Java
+• Spring Boot
+• REST APIs
+• SQL / MySQL
+• JUnit
+• HTML, CSS, JavaScript
+• Git & GitHub
+
+Projects
+🚀 E-Commerce CLI Application
+🚀 Habit Tracker
+🚀 Spring Boot E-Commerce REST API
+
+Connect
+LinkedIn: https://www.linkedin.com/in/siddhartha-gajjela/
+GitHub: https://github.com/devsiddharth
+Portfolio: https://devsiddharth.github.io/my-portfolio/
